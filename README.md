@@ -1,6 +1,5 @@
 - Hi, my name is Nxwayxut
 - i'm 22yo
-- I’m interested in DevOps
 
 
 <!---
